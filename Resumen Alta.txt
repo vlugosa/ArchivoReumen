@@ -1,0 +1,11 @@
+Reporte de la base ctbl_BOLSA_9_4_NORESTE
+
+Base:	ctbl_BOLSA_9_4_NORESTE
+Registros recibidos           : 6782
+Centro                        : BLANCO
+ID de Base                    : 8453
+Rechazados 3434
+Reg. Incorporados a Marcacion: 3348
+
+Rechazos
+Duplicados 3434
